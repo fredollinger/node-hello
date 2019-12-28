@@ -1,0 +1,3 @@
+Site to scrape:
+
+https://www.plantronics.com/us/en/support/knowledge-base?fbclid=IwAR25W97uQ2TkiQu1FuHgRzk9ZynIdpH7Z8TBheyVEejNAW3juGYCeOLUAfs
