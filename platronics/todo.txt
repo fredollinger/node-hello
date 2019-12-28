@@ -1,0 +1,15 @@
+1. populate db from the url
+
+2. iterate and find more parts and add to db
+
+3. each part has a dir named  after part # with pic and a child db inside
+
+4. create child db and populate it
+
+5. mock up a search app
+
+shows part info + picture
+
+6. add queries  for various features
+
+7. link queries to parts pages with full info
