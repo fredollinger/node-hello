@@ -1,0 +1,5 @@
+https://www.edureka.co/blog/web-scraping-with-python/
+
+https://towardsdatascience.com/how-to-web-scrape-with-python-in-4-minutes-bc49186a8460
+
+https://www.geeksforgeeks.org/implementing-web-scraping-python-beautiful-soup/

@@ -1,5 +1,0 @@
-Site to scrape:
-
-https://www.plantronics.com/us/en/support/knowledge-base?fbclid=IwAR25W97uQ2TkiQu1FuHgRzk9ZynIdpH7Z8TBheyVEejNAW3juGYCeOLUAfs
-
-https://www.plantronics.com/us/en/support/product/voyager-5200?fbclid=IwAR1KOpZTYicecOzFm-vohpFgHyk9-ggsAFPc69TJYST65Lple2cZ67WDQcU
