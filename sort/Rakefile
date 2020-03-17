@@ -1,17 +1,11 @@
-task :default => :hello
+task :default => :bubble
+
+desc "test bubble sort"
+task :bubble do
+    sh "node bubbleSort.js"
+end
 
 desc "hello world"
-task :hello do
+task :unique do
     sh "node hello.js"
 end
-
-desc "Static website"
-task :static do
-    sh "firefox 127.0.0.1:8000"
-    sh "python3 -m http.server 8000 --bind 127.0.0.1"
-end
-
-# test regular
-#task :clean do
-#    sh "rm -rf build"
-#end

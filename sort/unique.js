@@ -1,6 +1,6 @@
 // https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/727/
 
-function sort(arr) {
+function unique(arr) {
   var i;
   var prev = arr[0];
   console.log(prev);
@@ -16,6 +16,6 @@ function sort(arr) {
   }
   return arr[0];
 }
-
+ 
 names = [ 1, 1, 1, 1, 2 ];
-sort(names);
+unique(names);
