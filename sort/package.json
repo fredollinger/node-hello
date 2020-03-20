@@ -1,0 +1,11 @@
+{
+  "name": "sort",
+  "version": "1.0.0",
+  "description": "JS implementation of sort algorithms",
+  "main": "bubbleSort.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Frederick Ollinger",
+  "license": "ISC"
+}

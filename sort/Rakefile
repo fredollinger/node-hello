@@ -1,11 +1,11 @@
-task :default => :bubble
+task :default => :select
 
 desc "test bubble sort"
 task :bubble do
     sh "node bubbleSort.js"
 end
 
-desc "hello world"
-task :unique do
-    sh "node hello.js"
+desc "test select sort"
+task :select do
+    sh "node selectSort.js"
 end
