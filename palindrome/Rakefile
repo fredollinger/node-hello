@@ -1,0 +1,6 @@
+task :default => :palindrome
+
+desc "test palindrome"
+task :palindrome do
+    sh "node palindrome.js"
+end
